@@ -10,7 +10,7 @@ The script uses multiprocessing to visit multiple URLs in parallel, speeding up 
 
 ## Usage
 
-Run the script by using the command: `python finder.py`. The script will start the crawling process from two hardcoded URLs ("https://www.site1.com/" and "https://www.site2.com/"). 
+Run the script by using the command: `python finder.py`. The script will start the crawling process from two hardcoded URLs ("https://www.site1.com/" and "https://www.site2.com/"). Chage to desired starting points.
 
 Make sure to install all the required dependencies before running the script. The dependencies are listed in the `requirements.txt` file and can be installed using pip: `pip install -r requirements.txt`.
 
